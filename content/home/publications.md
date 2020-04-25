@@ -66,7 +66,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
-
+@misc{OpenSourceSurvey17,
+  author = {GitHub, Inc.},
+  title = {Open Source Survey},
+  year = {2017},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/github/open-source-survey}}
+}
 +++
 
 {{% alert note %}}
