@@ -25,7 +25,7 @@ interests:
 - Spinor BEC
 - 
 
-experience:
+education:
   courses:
   - course: PhD in Physics, Supervised by Prof. Peng Zhang
     institution: Renmin University of China
@@ -33,6 +33,8 @@ experience:
   - course: BSc in Physics, Supervised by Prof. Peng Zhang & Prof. Zhanyuan Yan
     institution: North China Electric Power University
     year: 2013.06
+  experience:
+  - kd
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
