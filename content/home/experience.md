@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Norman, Oklahoma"
   date_start = "2018-03-01"
   date_end = ""
-  description = """
-#  Responsibilities include:
-  
-#  * Analysing
-#  * Modelling
-#  * Deploying
-#  """
+  description = "Focus on the Spinor BEC systems both in experimental and theoretical sides."
 
 # [[experience]]
 #  title = "Professor"
