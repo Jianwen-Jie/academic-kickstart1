@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianwen Jie---(揭建文)
+title: Jianwen Jie     (揭建文)
 
 # Username (this should match the folder name)
 authors:
@@ -21,20 +21,19 @@ organizations:
 bio: 
 
 interests:
-- Few body 
-- Spinor BEC
-- 
+- Few body problems in cold atom systems
+- Spinor BEC, both in theory and experiment sides
+- Many body localization
 
 education:
   courses:
   - course: PhD in Physics, Supervised by Prof. Peng Zhang
-    institution: Renmin University of China
-    year: 2018.06
+    institution: Renmin University of China, Beijing, China.
+    year: 2013.09-2018.06
   - course: BSc in Physics, Supervised by Prof. Peng Zhang & Prof. Zhanyuan Yan
-    institution: North China Electric Power University
-    year: 2013.06
-  experience:
-  - kd
+    institution: North China Electric Power University, Baoding, China.
+    year: 2009.09-2013.06
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,6 +59,6 @@ user_groups:
 - Visitors
 ---
 
-# My research interests include few body and many body in ultracold atom systems.
+# XXX
 
 
