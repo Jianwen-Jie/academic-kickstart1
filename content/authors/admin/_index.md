@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Jianwen Jie (揭建文)
+title: Jianwen Jiedew (揭建文)
 
 # Username (this should match the folder name)
-authors:Jianwen Jie (揭建文)
+authors:Jianwen Jiedw (揭建文)
 - admin
 
 # Is this the primary user of the site?
@@ -57,6 +57,6 @@ user_groups:
 - Visitors
 ---
 
-My research interests include few body and many body in ultracold atom systems.
+# My research interests include few body and many body in ultracold atom systems.
 
 
