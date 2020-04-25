@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Jianwen Jie (揭建文)
+title: Jianwen Jie 
+        (揭建文)
 
 # Username (this should match the folder name)
 authors:
@@ -23,15 +24,16 @@ bio:
 interests:
 - Few body 
 - Spinor BEC
+- 
 
 education:
   courses:
-  - course: PhD in Physics
+  - course: PhD in Physics, Supervised by Prof. Peng Zhang.
     institution: Renmin University of China
-    year: 2018
+    year: 2018.06
   - course: BSc in Physics
-    institution: North China Electric Power University
-    year: 2013
+    institution: North China Electric Power University, Supervised by Prof. Peng Zhang & Prof. Zhanyuan Yan.
+    year: 2013.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,9 +54,9 @@ email: "Jianwen.Jie1990@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+[user_groups:
 - Researchers
-- Visitors
+- Visitors]
 ---
 
 # My research interests include few body and many body in ultracold atom systems.
