@@ -82,7 +82,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "Jianwen.Jie1990@gmail.com"
-phone = "XXXXXX"
+#phone = "XXXXXX"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -93,7 +93,7 @@ address = {street = "440 W. Brooks St.", city = "Norman", region = "OK", postcod
 coordinates = {latitude = "35.206796", longitude = "-97.446889"}
 
 # Directions for visitors to locate you.
-directions = "213 Lin Hall"
+directions = "Room 213, Lin Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
