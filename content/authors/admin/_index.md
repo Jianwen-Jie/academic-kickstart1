@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral research associate, CQRT & Homer L. Dodge Department of
-Physics and Astronomy.
+role: Postdoctoral research associate, CQRT & Homer L. Dodge Department of Physics and Astronomy.
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +18,7 @@ organizations:
   url: "https://www.nhn.ou.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: avatar.jpg
+bio: 
 
 interests:
 - Few body 
