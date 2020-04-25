@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Jianwen Jie 
-        (揭建文)
+title: Jianwen Jie (揭建文)
 
 # Username (this should match the folder name)
 authors:
