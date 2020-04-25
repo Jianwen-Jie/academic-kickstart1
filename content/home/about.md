@@ -8,7 +8,6 @@ weight = 20  # Order that this section will appear in.
 title = "Biography1"
 
 # Choose the user profile to display
-JIANWEN_JIE.jpg
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
