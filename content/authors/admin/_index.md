@@ -4,7 +4,7 @@ title: Jianwen Jie (揭建文)
 
 # Username (this should match the folder name)
 authors:
-- admin1
+- admin
 
 # Is this the primary user of the site?
 superuser: false
