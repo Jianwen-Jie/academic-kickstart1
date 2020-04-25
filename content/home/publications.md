@@ -65,7 +65,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
- 
++++
+
 @misc{OpenSourceSurvey17,
   author = {GitHub, Inc.},
   title = {Open Source Survey},
@@ -74,7 +75,6 @@ subtitle = ""
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/github/open-source-survey}}
 }
-+++
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
