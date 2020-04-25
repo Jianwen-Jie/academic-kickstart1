@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral research associate, CQRT, The University of oklahoma.
+role: Postdoctoral research associate, CQRT & Homer L. Dodge Department of
+Physics and Astronomy.
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +19,7 @@ organizations:
   url: "https://www.nhn.ou.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: JIANWEN_JIE.jpg
+bio: avatar.jpg
 
 interests:
 - Few body 
