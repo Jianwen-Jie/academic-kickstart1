@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianwen Jie (揭建文)
+title: Jianwen Jie     (揭建文)
 
 # Username (this should match the folder name)
 authors:
@@ -53,9 +53,9 @@ email: "Jianwen.Jie1990@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-[user_groups:
+user_groups:
 - Researchers
-- Visitors]
+- Visitors
 ---
 
 # My research interests include few body and many body in ultracold atom systems.
