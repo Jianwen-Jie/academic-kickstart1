@@ -36,7 +36,7 @@ education:
     year: 2013.09-2018.06
   - course: BSc in Physics, Supervised by Prof. Peng Zhang & Prof. Zhanyuan Yan
     institution: North China Electric Power University, Baoding, China.
-    year: 2009.09-2013
+    year: 2009.09-2013.06
 
 
 # Social/Academic Networking
