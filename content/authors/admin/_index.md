@@ -19,8 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-During my Ph.D in the Renmin University of China, my research focus on the few body problems in the Ultracold atomic system. After that , I moved to my present location CQRT of the university of oklahoma as a postdoctoral research associate and works on the spinor BEC system both in theoretical and experimental aspects.  In one project, I investigated the performance of a SU(1,1) interferometer for different classes of initial states. My theoretical work has practical implications for experiments with spinor BECs and I have been collaborating effectively with experimentalists at OU.
-I also interest in the non-equilibrium phenomenons, like many body localization, in the cold atom systems.
 
 
 interests:
