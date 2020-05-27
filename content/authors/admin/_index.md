@@ -65,6 +65,5 @@ user_groups:
 ---
 
 # 
-During my Ph.D in the Renmin University of China, my research focus on the few body problems in the Ultracold atomic system. After that , I moved to my present location CQRT of the university of oklahoma as a postdoctoral research associate and works on the spinor BEC system both in theoretical and experimental aspects.  In one project, I investigated the performance of a SU(1,1) interferometer for different classes of initial states. My theoretical work has practical implications for experiments with spinor BECs and I have been collaborating effectively with experimentalists at OU. I also interest in the non-equilibrium phenomenons, like many body localization, in the cold atom systems.
-
+Dr. Jianwen Jie received his Ph.D. from Renmin University of China, located in Beijing, under the supervision of Dr. Peng Zhang in May 2018. His Ph.D. research focused on few-body problems in ultra cold atomic systems. Jianwen received his B.Sc. in Physics from North China Electric Power University, Baoding, China, where he worked with Profs. Peng Zhang and Zhanyuan Yan. He joined the Blume group in March 2018 as a postdoctoral researcher to work on spinor BECs. In one project, Jianwen investigated the performance of a SU(1,1) interferometer for different classes of initial states. His theoretical work has practical implications for experiments with spinor BECs and he has been collaborating effectively with experimentalists at OU. Jianwen is also interested in non-equilibrium phenomena, such as many-body localization, in cold atom systems.
 
